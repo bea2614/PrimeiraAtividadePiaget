@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPiaget", "WebPiaget\WebPiaget.csproj", "{322502C5-9757-4A81-A19D-30D16F171941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322502C5-9757-4A81-A19D-30D16F171941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322502C5-9757-4A81-A19D-30D16F171941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322502C5-9757-4A81-A19D-30D16F171941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322502C5-9757-4A81-A19D-30D16F171941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4157E6-9779-4D6A-97C1-883988C14281}
+	EndGlobalSection
+EndGlobal
